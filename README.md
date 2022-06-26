@@ -7,7 +7,7 @@
 
 
 
-<p align="center"><a href="https://toolsiosf.typeform.com/to/fl45kmgs" target="_blank"><img src="https://img.shields.io/badge/-Join%20Us-%23EF233C" width="10%"></a>  <a href="https://twitter.com/iosf_india" target="_blank"><img src="https://badgen.net/badge/icon/twitter?icon=twitter&label" width="13%"></a> </p>
+
 
 
 
