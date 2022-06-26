@@ -7,7 +7,7 @@
 
 
 
-<p align="center"><a href="https://www.linkedin.com/in/abdelrahman-youssef/" target="_blank"><img src="https://image.similarpng.com/very-thumbnail/2020/07/Linkedin-logo-on-transparent-Background-PNG-.png"></a></p>
+<p align="center"><a href="https://www.linkedin.com/in/abdelrahman-youssef/" target="_blank"><img src="https://image.similarpng.com/very-thumbnail/2020/07/Linkedin-logo-on-transparent-Background-PNG-.png" width="13%"></a></p>
 
 
 
