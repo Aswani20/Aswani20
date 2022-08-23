@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Youssef</h1>
 <h3 align="center">Junior Frontend Developer 😀 👨‍💻</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aswani20&label=Profile%20views&color=0e75b6&style=flat" alt="aswani20" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=aswani20&label=Profile%20views&color=0e75b6&style=flat" alt="aswani20" /> </p>
 
 <p align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aswani20" alt="aswani20" /></a> </p>
 
@@ -58,7 +58,7 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aswani20&show_icons=true&locale=en" alt="aswani20" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aswani20&" alt="aswani20" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aswani20&show_icons=true&locale=en" alt="aswani20" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aswani20&show_icons=true&locale=en&layout=compact" alt="aswani20" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aswani20&show_icons=true&locale=en&layout=compact" alt="aswani20" /></p>
 
