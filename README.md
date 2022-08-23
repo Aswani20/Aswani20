@@ -38,7 +38,7 @@
 
 - 💬 Ask me about **HTML, CSS, Bootstrap, SCSS, JavaScript, Angular, Prime NG, React js, React Native and Flutter**
 
-- 📫 How to reach me: [ Gmail](abdoaswani1997@gmail.com)
+- 📫 How to reach me: **abdoaswani1997@gmail.com**
 
 - 📄 Know about my experiences [CV](https://drive.google.com/file/d/1BnL2AIxQIWdwt1Se0fi73_mhiekG8OLy/view?usp=sharing)
 
