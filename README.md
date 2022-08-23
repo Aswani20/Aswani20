@@ -1,9 +1,9 @@
-# Hi there 👋
+
 
 <p align="center"><a href="" target="_blank"></a></p>
 
 <h1 align="center">Abdelrahman Youssef</h1>
-<h2 align="center">Front End & Cross Platform developer 😀 👨‍💻</h2>
+<h2 align="center">Front End & Cross Platform developer </h2>
 
 <p align="center"><a href="https://www.linkedin.com/in/abdelrahman-youssef/" target="_blank"><img src="https://logos-world.net/wp-content/uploads/2020/05/Linkedin-Logo-700x394.png" width="13%"></a></p>
 
@@ -22,7 +22,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Abdelrahman Youssef</h1>
-<h3 align="center">Junior Frontend Developer</h3>
+<h3 align="center">Junior Frontend Developer 😀 👨‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aswani20&label=Profile%20views&color=0e75b6&style=flat" alt="aswani20" /> </p>
 
