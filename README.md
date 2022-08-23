@@ -50,10 +50,9 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aswani20&show_icons=true&locale=en&layout=compact" alt="aswani20" /></p>
+
 <p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=aswani20&show_icons=true&locale=en" alt="aswani20" /></p>
-
-
 
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=aswani20&" alt="aswani20" /></p>
 
+<p align="center" > <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aswani20&show_icons=true&locale=en&layout=compact" alt="aswani20" /></p>
