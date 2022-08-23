@@ -6,13 +6,13 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aswani20" alt="aswani20" /></a> </p>
 
 - 🔭 Bachelor Degree Of Computer Science,Faculty of Science.
-- 🔭 Graduated from ITP Information Technology Institute (ITI) 
-- 👯 I’m looking to collaborate on a Frontend project or Flutter Project
-- 🌱 I’m currently learning **React JS, React Native and Flutter**
-- 💬 Ask me about **HTML, CSS, Bootstrap, SCSS, JavaScript, Angular, Prime NG, React js, React Native and Flutter**
-- 📫 How to reach me: **abdoaswani1997@gmail.com**
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1BnL2AIxQIWdwt1Se0fi73_mhiekG8OLy/view?usp=sharing)
-- ⚡ Fun fact: programming is Easy
+- 🔭 Graduated from ITP Information Technology Institute (ITI).
+- 👯 I’m looking to collaborate on a Frontend project or Flutter Project.
+- 🌱 I’m currently learning **React JS, React Native and Flutter**.
+- 💬 Ask me about **HTML, CSS, Bootstrap, SCSS, JavaScript, Angular, Prime NG, React js, React Native and Flutter**.
+- 📫 How to reach me: **abdoaswani1997@gmail.com**.
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1BnL2AIxQIWdwt1Se0fi73_mhiekG8OLy/view?usp=sharing).
+- ⚡ Fun fact: programming is Easy.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
