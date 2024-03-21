@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Youssef</h1>
-<h3 align="center">Junior Frontend Developer 😀 👨‍💻</h3>
+<h3 align="center">Software Engineer 😀 👨‍💻</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aswani20&label=Profile%20views&color=0e75b6&style=flat" alt="aswani20" /> </p>
 
@@ -8,10 +8,10 @@
 - 🔭 Bachelor Degree Of Computer Science,Faculty of Science.
 - 🔭 Graduated from ITP Information Technology Institute (ITI).
 - 👯 I’m looking to collaborate on a Frontend project or Flutter Project.
-- 🌱 I’m currently learning **React JS, React Native and Flutter**.
-- 💬 Ask me about **HTML, CSS, Bootstrap, SCSS, JavaScript, Angular, Prime NG, React js, React Native and Flutter**.
+- 🌱 I’m currently learning **Flutter, Game Development, VR**.
+- 💬 Ask me about **HTML, CSS, Bootstrap, SCSS, JavaScript, Angular, Prime NG, React js, React Native, Flutter, Unreal Engine, Unity, VR**.
 - 📫 How to reach me: **abdoaswani1997@gmail.com**.
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1BnL2AIxQIWdwt1Se0fi73_mhiekG8OLy/view?usp=sharing).
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1w6aVeKRQdHGLMrajdyR3sejJZkKQzwpy/view?usp=sharing).
 - ⚡ Fun fact: programming is Easy.
 
 <h3 align="left">Connect with me:</h3>
