@@ -42,7 +42,7 @@
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Game & VR Development:</h3>
-<p align="left"> <a href="https://www.unrealengine.com/en-US" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/unreal-tournament-3.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/unity-logo.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/logo-oculus-horizontal.svg" alt="linux" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.unrealengine.com/en-US" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/unreal-tournament-3.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/unity-logo.svg" alt="git" width="40" height="40"/> </a> </p>
 
 
 
